@@ -1,0 +1,136 @@
+{"level":30,"time":1748097322682,"pid":9596,"hostname":"het","msg":"Validating config file and environment variables"}
+{"level":50,"time":1748097322682,"pid":9596,"hostname":"het","msg":"env: BOT_TOKEN cannot be empty"}
+{"level":30,"time":1748097338822,"pid":15500,"hostname":"het","msg":"Validating config file and environment variables"}
+{"level":30,"time":1748097338926,"pid":15500,"hostname":"het","msg":"Loading commands..."}
+{"level":20,"time":1748097339704,"pid":15500,"hostname":"het","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1748097339707,"pid":15500,"hostname":"het","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1748097339712,"pid":15500,"hostname":"het","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1748097339717,"pid":15500,"hostname":"het","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1748097339721,"pid":15500,"hostname":"het","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1748097339728,"pid":15500,"hostname":"het","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1748097339730,"pid":15500,"hostname":"het","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1748097339733,"pid":15500,"hostname":"het","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1748097339738,"pid":15500,"hostname":"het","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1748097339741,"pid":15500,"hostname":"het","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1748097339767,"pid":15500,"hostname":"het","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1748097339770,"pid":15500,"hostname":"het","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1748097339773,"pid":15500,"hostname":"het","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1748097339774,"pid":15500,"hostname":"het","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1748097339776,"pid":15500,"hostname":"het","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1748097339777,"pid":15500,"hostname":"het","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1748097339778,"pid":15500,"hostname":"het","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1748097339779,"pid":15500,"hostname":"het","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1748097339781,"pid":15500,"hostname":"het","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1748097339783,"pid":15500,"hostname":"het","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1748097339785,"pid":15500,"hostname":"het","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1748097339788,"pid":15500,"hostname":"het","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1748097339792,"pid":15500,"hostname":"het","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1748097339796,"pid":15500,"hostname":"het","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1748097339834,"pid":15500,"hostname":"het","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1748097339835,"pid":15500,"hostname":"het","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1748097339836,"pid":15500,"hostname":"het","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1748097339887,"pid":15500,"hostname":"het","msg":"Loaded 105 commands"}
+{"level":30,"time":1748097339888,"pid":15500,"hostname":"het","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1748097339888,"pid":15500,"hostname":"het","msg":"Loading contexts..."}
+{"level":30,"time":1748097339890,"pid":15500,"hostname":"het","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1748097339890,"pid":15500,"hostname":"het","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1748097339890,"pid":15500,"hostname":"het","msg":"Loading events..."}
+{"level":30,"time":1748097339939,"pid":15500,"hostname":"het","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1748097339940,"pid":15500,"hostname":"het","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1748097341227,"pid":15500,"hostname":"het","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1748097344243,"pid":15500,"hostname":"het","msg":"Logged in as flamezz#5775! (1375817939944476693)"}
+{"level":20,"time":1748097344243,"pid":15500,"hostname":"het","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1748097344244,"pid":15500,"hostname":"het","msg":"Music Manager initialized"}
+{"level":30,"time":1748097344244,"pid":15500,"hostname":"het","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1748097344466,"pid":15500,"hostname":"het","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1748097345339,"pid":15500,"hostname":"het","msg":"Successfully registered interactions"}
+{"level":30,"time":1748097345487,"pid":15500,"hostname":"het","msg":"Node \"Music\" connected"}
+{"level":20,"time":1748097345487,"pid":15500,"hostname":"het","msg":"Node \"Music\" debug: connection: connected in 1243ms"}
+{"level":20,"time":1748097345489,"pid":15500,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"fbcydt4wwtsp9d3j\",\"op\":\"ready\"}"}
+{"level":20,"time":1748097345490,"pid":15500,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":542588042,\"memory\":{\"free\":323798696,\"used\":383990104,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.00589622641509434},\"op\":\"stats\"}"}
+{"level":30,"time":1748097393346,"pid":17944,"hostname":"het","msg":"Validating config file and environment variables"}
+{"level":30,"time":1748097393444,"pid":17944,"hostname":"het","msg":"Loading commands..."}
+{"level":20,"time":1748097394188,"pid":17944,"hostname":"het","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1748097394191,"pid":17944,"hostname":"het","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1748097394195,"pid":17944,"hostname":"het","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1748097394200,"pid":17944,"hostname":"het","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1748097394203,"pid":17944,"hostname":"het","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1748097394210,"pid":17944,"hostname":"het","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1748097394212,"pid":17944,"hostname":"het","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1748097394215,"pid":17944,"hostname":"het","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1748097394220,"pid":17944,"hostname":"het","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1748097394223,"pid":17944,"hostname":"het","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1748097394250,"pid":17944,"hostname":"het","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1748097394253,"pid":17944,"hostname":"het","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1748097394256,"pid":17944,"hostname":"het","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1748097394257,"pid":17944,"hostname":"het","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1748097394258,"pid":17944,"hostname":"het","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1748097394259,"pid":17944,"hostname":"het","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1748097394261,"pid":17944,"hostname":"het","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1748097394262,"pid":17944,"hostname":"het","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1748097394263,"pid":17944,"hostname":"het","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1748097394266,"pid":17944,"hostname":"het","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1748097394268,"pid":17944,"hostname":"het","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1748097394271,"pid":17944,"hostname":"het","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1748097394275,"pid":17944,"hostname":"het","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1748097394279,"pid":17944,"hostname":"het","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1748097394316,"pid":17944,"hostname":"het","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1748097394317,"pid":17944,"hostname":"het","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1748097394318,"pid":17944,"hostname":"het","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1748097394369,"pid":17944,"hostname":"het","msg":"Loaded 105 commands"}
+{"level":30,"time":1748097394369,"pid":17944,"hostname":"het","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1748097394369,"pid":17944,"hostname":"het","msg":"Loading contexts..."}
+{"level":30,"time":1748097394370,"pid":17944,"hostname":"het","msg":"Loaded 1 USER contexts"}
+{"level":30,"time":1748097394370,"pid":17944,"hostname":"het","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1748097394371,"pid":17944,"hostname":"het","msg":"Loading events..."}
+{"level":30,"time":1748097394418,"pid":17944,"hostname":"het","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1748097394418,"pid":17944,"hostname":"het","msg":"Launching dashboard"}
+{"level":30,"time":1748097394820,"pid":17944,"hostname":"het","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1748097395876,"pid":17944,"hostname":"het","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1748097395888,"pid":17944,"hostname":"het","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1748097395888,"pid":17944,"hostname":"het","msg":"http://localhost:8080"}
+{"level":30,"time":1748097398688,"pid":17944,"hostname":"het","msg":"Logged in as flamezz#5775! (1375817939944476693)"}
+{"level":20,"time":1748097398688,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1748097398689,"pid":17944,"hostname":"het","msg":"Music Manager initialized"}
+{"level":30,"time":1748097398689,"pid":17944,"hostname":"het","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1748097398920,"pid":17944,"hostname":"het","msg":"Giveaway Manager initialized"}
+{"level":20,"time":1748097399529,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< ready: {\"resumed\":false,\"sessionId\":\"pdixlzsbx7c9ondc\",\"op\":\"ready\"}"}
+{"level":20,"time":1748097399529,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":542642090,\"memory\":{\"free\":262678768,\"used\":445110032,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007716049382716049},\"op\":\"stats\"}"}
+{"level":30,"time":1748097399529,"pid":17944,"hostname":"het","msg":"Node \"Music\" connected"}
+{"level":20,"time":1748097399529,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: connected in 840ms"}
+{"level":30,"time":1748097399707,"pid":17944,"hostname":"het","msg":"Successfully registered interactions"}
+{"level":20,"time":1748097459530,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":19,\"playingPlayers\":0,\"uptime\":542702090,\"memory\":{\"free\":195219288,\"used\":512569512,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748097519520,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":542762090,\"memory\":{\"free\":132146240,\"used\":575642560,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748097579521,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":542822092,\"memory\":{\"free\":483707752,\"used\":224081048,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007668711656441718},\"op\":\"stats\"}"}
+{"level":20,"time":1748097639517,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":19,\"playingPlayers\":0,\"uptime\":542882090,\"memory\":{\"free\":413285768,\"used\":294503032,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748097699515,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":19,\"playingPlayers\":0,\"uptime\":542942090,\"memory\":{\"free\":344632488,\"used\":363156312,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748097759510,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":20,\"playingPlayers\":0,\"uptime\":543002090,\"memory\":{\"free\":274954784,\"used\":432834016,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.015527950310559006},\"op\":\"stats\"}"}
+{"level":20,"time":1748097819507,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543062090,\"memory\":{\"free\":209518248,\"used\":498270552,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748097879506,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543122090,\"memory\":{\"free\":145915688,\"used\":561873112,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748097939501,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543182090,\"memory\":{\"free\":498724024,\"used\":209064776,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748097999497,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":19,\"playingPlayers\":1,\"uptime\":543242090,\"memory\":{\"free\":419894872,\"used\":287893928,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748098059498,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543302090,\"memory\":{\"free\":317461624,\"used\":390327176,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.015527950310559006},\"op\":\"stats\"}"}
+{"level":20,"time":1748098119497,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543362090,\"memory\":{\"free\":253704680,\"used\":454084120,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748098179491,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543422090,\"memory\":{\"free\":189744872,\"used\":518043928,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748098239498,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543482090,\"memory\":{\"free\":548228888,\"used\":159559912,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.008278145695364239},\"op\":\"stats\"}"}
+{"level":20,"time":1748098299485,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543542090,\"memory\":{\"free\":447018632,\"used\":260770168,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748098359481,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543602090,\"memory\":{\"free\":352560992,\"used\":355227808,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748098419481,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":19,\"playingPlayers\":0,\"uptime\":543662090,\"memory\":{\"free\":273148504,\"used\":434640296,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":30,"time":1748098449942,"pid":17944,"hostname":"het","msg":"Guild Joined: Sky Realm Members: 46"}
+{"level":30,"time":1748098468353,"pid":17944,"hostname":"het","msg":"Guild Joined: Spiderverse Members: 98"}
+{"level":20,"time":1748098479484,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":20,\"playingPlayers\":0,\"uptime\":543722090,\"memory\":{\"free\":207724448,\"used\":500064352,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748098539476,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":19,\"playingPlayers\":0,\"uptime\":543782090,\"memory\":{\"free\":110999424,\"used\":596789376,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748098599471,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543842090,\"memory\":{\"free\":497322112,\"used\":210466688,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748098659487,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543902090,\"memory\":{\"free\":428826328,\"used\":278962472,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748098719464,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":543962090,\"memory\":{\"free\":307830976,\"used\":399957824,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748098779463,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":544022090,\"memory\":{\"free\":239175608,\"used\":468613192,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748098839470,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":544082090,\"memory\":{\"free\":176102584,\"used\":531686216,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.015527950310559006},\"op\":\"stats\"}"}
+{"level":20,"time":1748098899455,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":544142090,\"memory\":{\"free\":540810992,\"used\":166977808,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748098959458,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":544202090,\"memory\":{\"free\":474051336,\"used\":233737464,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748099019452,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":544262090,\"memory\":{\"free\":411684992,\"used\":296103808,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748099079448,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":544322090,\"memory\":{\"free\":345331040,\"used\":362457760,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748099139459,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":544382090,\"memory\":{\"free\":281552528,\"used\":426236272,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748099199442,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":18,\"playingPlayers\":0,\"uptime\":544442090,\"memory\":{\"free\":209716192,\"used\":498072608,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
+{"level":20,"time":1748099259443,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":19,\"playingPlayers\":0,\"uptime\":544502090,\"memory\":{\"free\":143945744,\"used\":563843056,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748099319435,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":20,\"playingPlayers\":0,\"uptime\":544562090,\"memory\":{\"free\":491732200,\"used\":216056600,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.007763975155279503},\"op\":\"stats\"}"}
+{"level":20,"time":1748099379435,"pid":17944,"hostname":"het","msg":"Node \"Music\" debug: connection: lavaclient <<< stats: {\"players\":20,\"playingPlayers\":0,\"uptime\":544622090,\"memory\":{\"free\":427174600,\"used\":280614200,\"allocated\":707788800,\"reservable\":2147483648},\"cpu\":{\"cores\":2,\"systemLoad\":0.0,\"lavalinkLoad\":0.0},\"op\":\"stats\"}"}
